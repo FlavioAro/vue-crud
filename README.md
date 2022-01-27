@@ -1,4 +1,7 @@
-# vue-app
+# Create CRUD using framework Vue.js
+
+<b>Subscribe to My Youtube Channel:</b><br>
+https://www.youtube.com/NerdAutodidata
 
 ## Project setup
 ```
